@@ -3,7 +3,7 @@
 git clone https://github.com/ammppp/claw.git
 cd claw
 
-# Set service account credentials that can launch a Dataflow job...
+# Set service account credentials that can launch a Dataflow job
 export GOOGLE_APPLICATION_CREDENTIALS=/PATH/TO/GCP/CREDENTIALS.json
 
 # Parameters specific to your GCP environment
